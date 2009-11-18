@@ -3,11 +3,3 @@
 = 关于 =
 
  FlashDevelop是一个开源Flash开发环境，其主页在http://www.flashdevelop.org/.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
