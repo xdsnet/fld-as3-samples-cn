@@ -1,0 +1,6 @@
+﻿FILENAME	TITLE	WHITE_THRESHHOLD	BLACK_THRESHHOLD
+FruitBasket.jpg	水果集合（香蕉、梨、苹果和橙子）	d8	10
+Banana.jpg	香蕉图片	C8	20
+Orange.jpg	橙子	FF	20
+Apple.jpg	苹果图片	6E	10
+Pear.jpg	梨的图片	0xBB	0x30
