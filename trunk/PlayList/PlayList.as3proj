@@ -4,7 +4,7 @@
   <output>
     <movie disabled="False" />
     <movie input="" />
-    <movie path="src\FLD_PlayList.swf" />
+    <movie path="bin\FLD_PlayList.swf" />
     <movie fps="30" />
     <movie width="550" />
     <movie height="400" />
@@ -39,11 +39,11 @@
   </build>
   <!-- SWC Include Libraries -->
   <includeLibraries>
-    <!-- example: <element path="..." /> -->
+    <element path="D:\flash_dev_tools\lib\FlSWC.swc" />
   </includeLibraries>
   <!-- SWC Libraries -->
   <libraryPaths>
-    <element path="lib\FlSWC.swc" />
+    <!-- example: <element path="..." /> -->
   </libraryPaths>
   <!-- External Libraries -->
   <externalLibraryPaths>
