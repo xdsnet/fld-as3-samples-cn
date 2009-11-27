@@ -39,11 +39,11 @@
   </build>
   <!-- SWC Include Libraries -->
   <includeLibraries>
-    <element path="D:\flash_dev_tools\lib\FlSWC.swc" />
+    <!-- example: <element path="..." /> -->
   </includeLibraries>
   <!-- SWC Libraries -->
   <libraryPaths>
-    <!-- example: <element path="..." /> -->
+    <element path="D:\flash_dev_tools\lib\FlSWC.swc" />
   </libraryPaths>
   <!-- External Libraries -->
   <externalLibraryPaths>
