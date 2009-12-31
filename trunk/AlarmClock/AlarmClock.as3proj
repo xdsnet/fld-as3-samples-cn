@@ -43,7 +43,7 @@
   </includeLibraries>
   <!-- SWC Libraries -->
   <libraryPaths>
-    <element path="..\GeometricShapes\lib\FlSWC.swc" />
+    <element path="..\FlSWC.swc" />
   </libraryPaths>
   <!-- External Libraries -->
   <externalLibraryPaths>
