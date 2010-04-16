@@ -1,0 +1,3 @@
+    需要FLSWC.swc文件，该文件可以直接放置在本目录，也可以采用在编译属性中
+设置的方式来链接，主要涉及SWC Include Libraries 或者 SWC Libraries这两个
+属性。
